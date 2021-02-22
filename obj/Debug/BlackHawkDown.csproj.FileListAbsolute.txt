@@ -1,0 +1,7 @@
+C:\Users\phill\MSSA2021\CSharp\BlackHawkDown\bin\Debug\BlackHawkDown.exe.config
+C:\Users\phill\MSSA2021\CSharp\BlackHawkDown\bin\Debug\BlackHawkDown.exe
+C:\Users\phill\MSSA2021\CSharp\BlackHawkDown\bin\Debug\BlackHawkDown.pdb
+C:\Users\phill\MSSA2021\CSharp\BlackHawkDown\obj\Debug\BlackHawkDown.csprojAssemblyReference.cache
+C:\Users\phill\MSSA2021\CSharp\BlackHawkDown\obj\Debug\BlackHawkDown.csproj.CoreCompileInputs.cache
+C:\Users\phill\MSSA2021\CSharp\BlackHawkDown\obj\Debug\BlackHawkDown.exe
+C:\Users\phill\MSSA2021\CSharp\BlackHawkDown\obj\Debug\BlackHawkDown.pdb
